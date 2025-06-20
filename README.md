@@ -1,3 +1,1 @@
-# Sphere.3d
-3d  Sphere glut
-
+editor id auto sugestion on python
