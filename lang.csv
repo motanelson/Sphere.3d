@@ -1,2 +1,2 @@
 include,define,auto,break,case,char,const,continue,default,do,double,else,enum,extern,float,for,goto,if,int,long,register,return,short,signed,sizeof,static,struct,switch,typedef,union,unsigned,void,volatile,while,printf,stdio.h,stdlib.h,return,open,FILE,conio.h,close,fopen,fclose,write,read,fprint,fread,fwite,main,argc,argv,feof,ferror,fgetc,fgets,fprintf,fputc,fputs,fscanf,fseek
-,ftell,getc,getchar,putc,putchar,puts,remove,rename,rewind,scanf,snprintf,sprintf,sscanf
+,ftell,getc,getchar,putc,putchar,puts,remove,rename,rewind,scanf,snprintf,sprintf,sscanf,abs,atof,atoi,atol,atoll,calloc,div,exit,free,malloc,qsort,rand,realloc,srand
